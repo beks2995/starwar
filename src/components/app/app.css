@@ -1,0 +1,12 @@
+.hidden{
+    margin-left: 15px;
+    color: #bebebe;
+    font-size: 1.5rem;
+    border: #bebebe 2px solid;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.hidden:hover{
+    background: #bebebe;
+    color: #333;
+}

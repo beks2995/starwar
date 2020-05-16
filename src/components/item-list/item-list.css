@@ -1,0 +1,9 @@
+.list-item{
+    border-radius: 5px;
+    padding: 1rem;
+    cursor: pointer;
+}
+.list-group-item:hover{
+    background: #bebebe;
+    color: #333333;
+}
